@@ -306,7 +306,7 @@ header::before {
 
 #map {
   background-color: #eef1ec;
-  background-image: url(../img/map.png);
+  background: url(../img/map.png);
   background-position: right;
   background-repeat: no-repeat;
   padding: 150px 0;
