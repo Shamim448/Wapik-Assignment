@@ -382,10 +382,12 @@ header::before {
   background-color: #6fb048;
 }
 
-#pricing .table-context:last-child,
+#pricing .pricing-table .table-content:last-child {
+  border-right-width: 0px;
+}
+
 #pricing .active {
   border: 0 solid #c1d3d2;
-  border-right-width: 0px;
 }
 
 #pricing .plan {
